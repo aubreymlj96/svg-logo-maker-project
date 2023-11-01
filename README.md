@@ -60,7 +60,7 @@ The package.json/package-lock.js contributes the following:
 
 Please click the following link to view a step by step tutorial of the logo generation/command line application.
 
-[Demo]( https://drive.google.com/file/d/1KuBkBwGAmdnr2swj6N69csy2N526hYg9/view)
+[Demo](https://drive.google.com/file/d/1l1cECdeZfytoMKftQaVB5JF8-F06A852/view)
 
 ## Credits
 
